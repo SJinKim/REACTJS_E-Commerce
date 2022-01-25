@@ -1,4 +1,4 @@
-# REACTJS_E-Commerce
+# E-Commerce by using React.Js
 
 ### for visit: [click here](ecommerce-storesj.netlify.app)
 
