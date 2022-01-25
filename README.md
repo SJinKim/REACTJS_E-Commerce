@@ -2,7 +2,7 @@
 
 ### for visit: [click here](ecommerce-storesj.netlify.app)
 
-## build with:
+## build with
 - React.js
 - Commerce.js
 - Stripe.js 
