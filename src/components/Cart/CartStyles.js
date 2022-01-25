@@ -23,6 +23,7 @@ export default makeStyles((theme) => ({
   cardDetails: {
     display: 'flex',
     marginTop: '10%',
+    padding: '20px',
     width: '100%',
     justifyContent: 'space-between',
   },
