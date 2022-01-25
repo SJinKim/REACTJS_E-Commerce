@@ -1,8 +1,8 @@
-# E-Commerce by using React
+# E-Commerce 
 
 ### for visit: [click here](ecommerce-storesj.netlify.app)
 
-## Following used:
+## build with:
 - React.js
 - Commerce.js
 - Stripe.js 
